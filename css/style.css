@@ -107,6 +107,43 @@ html{
   background-position: center;
   background-size: cover;
 }
+.parallax-slider .img-container.five {
+  background:url(../images/5.jpg);
+  background-position: center;
+  background-size: cover;
+}.parallax-slider .img-container.six {
+  background:url(../images/6.jpg);
+  background-position: center;
+  background-size: cover;
+}.parallax-slider .img-container.seven {
+  background:url(../images/7.jpg);
+  background-position: center;
+  background-size: cover;
+}.parallax-slider .img-container.eight {
+  background:url(../images/8.jpg);
+  background-position: center;
+  background-size: cover;
+}.parallax-slider .img-container.nine {
+  background:url(../images/9.jpg);
+  background-position: center;
+  background-size: cover;
+}.parallax-slider .img-container.ten {
+  background:url(../images/10.jpg);
+  background-position: center;
+  background-size: cover;
+}.parallax-slider .img-container.eleven {
+  background:url(../images/11.jpg);
+  background-position: center;
+  background-size: cover;
+}.parallax-slider .img-container.twelve {
+  background:url(../images/12i.jpg);
+  background-position: center;
+  background-size: cover;
+}.parallax-slider .img-container.thirteen {
+  background:url(../images/13.jpg);
+  background-position: center;
+  background-size: cover;
+}
 .navigation{
   position: absolute;
   left: 0;
